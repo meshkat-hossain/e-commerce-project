@@ -1,0 +1,30 @@
+.navbarFrni{
+    height: 200px;
+    background-color:#3B5D50;
+   
+}
+
+.underline:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+
+.margint{
+    margin-top: 250px;
+}
+.font-size{
+    font-size: 4rem;
+}
+.product-section .product-item h3{
+    color: #2f2f2f;
+    text-decoration: none;
+}
+.product-section .product-item {
+    color: #2f2f2f;
+    text-decoration: none;
+}
+h3{
+    margin-bottom: 5px;
+    margin-top: 25px;
+    
+}

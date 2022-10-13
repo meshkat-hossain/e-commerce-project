@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meshkat-hossain/react_upload/static/css/main.fc8ccad2.css",
+    "main.js": "/meshkat-hossain/react_upload/static/js/main.46352207.js",
+    "static/js/787.4fb5f8c8.chunk.js": "/meshkat-hossain/react_upload/static/js/787.4fb5f8c8.chunk.js",
+    "index.html": "/meshkat-hossain/react_upload/index.html",
+    "static/media/wave.svg": "/meshkat-hossain/react_upload/static/media/wave.cabdc9ec2f180b17c006923add50a052.svg",
+    "main.fc8ccad2.css.map": "/meshkat-hossain/react_upload/static/css/main.fc8ccad2.css.map",
+    "main.46352207.js.map": "/meshkat-hossain/react_upload/static/js/main.46352207.js.map",
+    "787.4fb5f8c8.chunk.js.map": "/meshkat-hossain/react_upload/static/js/787.4fb5f8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8ccad2.css",
+    "static/js/main.46352207.js"
+  ]
+}
